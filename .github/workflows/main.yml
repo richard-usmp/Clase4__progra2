@@ -32,7 +32,7 @@ jobs:
           
           heroku_app_name: ${{ secrets.HEROKU_APP_NAME }}
 
-          dockerfile_directory: Clase4__progra2
+          dockerfile_directory: prueba
 
           dockerfile_name: DockerFile
 
